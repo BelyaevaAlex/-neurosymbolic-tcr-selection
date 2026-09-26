@@ -1,0 +1,2 @@
+# Keep scientific payloads byte-identical to checksums on every platform.
+* -text

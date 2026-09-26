@@ -1,0 +1,7 @@
+# Tested with Python 3.11.15. No model downloads, GPU libraries, or compiler required.
+numpy==2.4.4
+pandas==3.0.3
+scipy==1.17.1
+scikit-learn==1.9.0
+threadpoolctl==3.6.0
+joblib==1.5.3
